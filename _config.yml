@@ -19,7 +19,7 @@ color:
   primary: 454d3c
   primary-highlight: 60704e
   secondary: f8f7f2
-  secondary-dark: d8d6ca
+  secondary-dark: c0beb3
 
 # Footer settings
 footer:
@@ -35,7 +35,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kitchener, ON
+  - line: Waterloo, Ontario, Canada
 
 # Credits content
 credits: '<a href="https://www.waterloopotters.ca/">Waterloo Potters Workshop</a>'
