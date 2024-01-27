@@ -1,6 +1,7 @@
 # Site settings
 title: kw ceramics
 email: kate@kwceramics.ca
+formspree: f/xnqejlno # form ID from https://formspree.io/forms/
 url: https://www.kwceramics.ca
 description: "Local pottery and ceramics by artist Kate Welsh based out of Kitchener-Waterloo."
 keywords: "pottery,ceramics,clay,mugs,bowls,cups,local,artist,kitchener,waterloo,canada"
@@ -13,12 +14,12 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Color settings (hex-codes without the leading hash-tag)
+# Color reference only; not actually used :(
 color:
-  primary: 454d3c #80B3FF
+  primary: 454d3c
   primary-highlight: 60704e
-  secondary: f8f7f2 #2c3e50 #FD6E8A
-  secondary-dark: d8d6ca #A2122F
+  secondary: f8f7f2
+  secondary-dark: d8d6ca
 
 # Footer settings
 footer:
