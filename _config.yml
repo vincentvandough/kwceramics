@@ -43,11 +43,3 @@ credits: '<a href="https://www.waterloopotters.ca/">Waterloo Potters Workshop</a
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""

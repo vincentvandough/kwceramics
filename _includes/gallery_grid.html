@@ -9,6 +9,7 @@
     </div>
     <div class="row">
       {% for post in site.posts %}
+      <p>"{{ post.modal-id }}"</p>
       <div class="col-sm-4 gallery-item">
         <a href="#galleryModal-{{ post.modal-id }}" class="gallery-link" data-toggle="modal">
           <div class="caption">
