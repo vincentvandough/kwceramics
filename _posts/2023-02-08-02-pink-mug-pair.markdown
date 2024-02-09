@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 3
-date: 2023-02-08
-img: green-bowl-swirl.jpg
-alt: beige-cup-set
+modal-id: 2
+date: 2023-02-08 00:02
+img: pink-mug-pair.jpg
+alt: pink-mug-pair
 project-date: February 2023
 client:
-category: Cups
+category: Mugs
 description: |
     TODO: describe.
     e.g glaze used was...
