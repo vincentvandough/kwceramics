@@ -8,6 +8,5 @@ project-date: February 2023
 client:
 category: Cups
 description: |
-    TODO: describe.
-    e.g glaze used was...
+    Set of barista cups. Wheel thrown warm brown stoneware.
 ---
