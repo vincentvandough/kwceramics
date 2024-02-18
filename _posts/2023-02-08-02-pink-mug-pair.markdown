@@ -8,6 +8,5 @@ project-date: February 2023
 client:
 category: Mugs
 description: |
-    TODO: describe.
-    e.g glaze used was...
+    Wheel thrown white stoneware wine cups in rose quartz.
 ---
