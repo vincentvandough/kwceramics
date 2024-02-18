@@ -8,6 +8,4 @@ project-date: February 2023
 client:
 category: Vases
 description: |
-    TODO: describe.
-    e.g glaze used was...
----
+    Wheelthrown white stoneware bud vase in snowflecks.
