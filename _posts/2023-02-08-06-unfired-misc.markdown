@@ -8,5 +8,5 @@ project-date: February 2023
 client:
 category: Misc
 description: |
-    TODO: describe.
+ Miscellaneous greenware vessels.
 ---
