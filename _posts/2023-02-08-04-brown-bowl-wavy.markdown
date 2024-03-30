@@ -9,3 +9,4 @@ client:
 category: Bowls
 description: |
     Wavy wheel thrown bowl in white stoneware and matte shino.
+---

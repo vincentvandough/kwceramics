@@ -9,3 +9,4 @@ client:
 category: Vases
 description: |
     Wheelthrown white stoneware bud vase in snowflecks.
+---
