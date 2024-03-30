@@ -5,7 +5,6 @@ date: 2023-02-08 00:03
 img: green-bowl-swirl.jpg
 alt: beige-cup-set
 project-date: February 2023
-client:
 category: Cups
 description: |
     White Stoneware bowl in Iron Lustre Glaze. Wheel Thrown.
