@@ -8,10 +8,17 @@ Jekyll theme based on [Freelancer bootstrap theme](https://github.com/jeromelach
 
 ### Run locally
 
-On Mac with `ruby>=3`
+#### Setup (one-time)
+On Mac (requires `ruby>=3`)
 
 ```shell
-gem install bundler jekyll
+brew update ruby
+sudo gem install bundler jekyll
+```
+
+#### Serve (each-time)
+
+```shell
 bundle exec jekyll serve
 ```
 
