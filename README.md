@@ -32,6 +32,7 @@ On Mac (requires `ruby>=3`)
 ```shell
 brew update ruby
 sudo gem install bundler jekyll
+bundle install
 ```
 
 #### Serve (each-time)
